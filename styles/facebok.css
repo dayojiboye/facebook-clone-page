@@ -1,0 +1,51 @@
+nav {
+    background-color: #3f5c9a;
+    
+}
+
+.brand1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+table input[type="email number"], table input[type="password"] {
+    width: 150px;
+    height: 22px;
+    border: 1px solid black;
+}
+
+/*
+input[type="submit"] {
+    width: 60px;
+    height: 25px;
+    color: white;
+    padding-bottom: 5px;
+    background-color:  #3f5c9a;
+    font-weight: bold;
+    padding-right: 5px;
+    border: 1px solid black;
+    
+}
+*/
+
+table input[type="submit"] {
+    color: white;
+    font-weight: bold;
+    background-color: #4267B2;
+    height: 22px;
+    border-radius: 3px;
+    border: 1px solid rgb(6, 29, 75);
+}
+
+table input[type="submit"]:hover {
+    color: white;
+    background-color: #3b5598;
+}
+
+/* input[type="text"] {
+    font-weight: 500;
+    font-size: 20px;
+} */
+
+
+
